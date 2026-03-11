@@ -705,6 +705,7 @@ window.PROBLEMS = {
             "cols": 6,
             "hints": [
                 {"r":1,"c":3,"file":"3R.png"},
+                {"r":1,"c":6,"file":"4L.png"},
                 {"r":2,"c":1,"file":"Y3.png"},
                 {"r":2,"c":5,"file":"Y1.png"}
             ],
@@ -720,6 +721,7 @@ window.PROBLEMS = {
             "hints": [
                 {"r":1,"c":5,"file":"Y3.png"},
                 {"r":2,"c":3,"file":"Y2.png"},
+                {"r":2,"c":5,"file":"2K.png"},
                 {"r":3,"c":1,"file":"Y2.png"},
                 {"r":3,"c":2,"file":"4R.png"}
             ],
